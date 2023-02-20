@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">math_class</string>
+    <string name="Teacher">Teacher</string>
+    <string name="student">student</string>
 </resources>
